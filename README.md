@@ -1,18 +1,25 @@
-<!--
-**cesaralvarod/cesaralvarod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello, I'm Cesar 👋😸
 
-Here are some ideas to get you started:
+🔩 Mechatronics engineering student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Web developer
 
-### About 👋
+🌟 I try to be better every day
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cesaralvarod&show_icons=true&theme=monokai)
+🐶 I like dogs 
+
+🔭 [website](https://cesaralvarod.netlify.app/) 
+
+📌 Piura, Peru
+
+⬇️ **check my public projects** ⬇️
+
+### Stats 🌃
+
+![cesaralvarod's github stats](https://github-readme-stats.vercel.app/api?username=cesaralvarod&show_icons=true&theme=monokai)
+
+### Social 👾
+
+🔎 You can find me in:
+
+🎩 [linkedin](https://www.linkedin.com/in/cesaralvarod/) | 📸 [instagram](https://www.instagram.com/cesar.alvarod/) | 
