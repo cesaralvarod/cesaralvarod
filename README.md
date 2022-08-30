@@ -8,7 +8,7 @@
 
 🐶 I like dogs 
 
-🔭 [website](https://cesaralvarod.netlify.app/) 
+🔭 [My website](https://cesaralvarod.netlify.app/) 
 
 📌 Piura, Peru
 
@@ -22,6 +22,6 @@
 
 🔎 You can find me in:
 
-🎩 [linkedin](https://www.linkedin.com/in/cesaralvarod/) | 📸 [instagram](https://www.instagram.com/cesar.alvarod/)
+🎩 [linkedin](https://www.linkedin.com/in/cesaralvarod/) | 📸 [instagram](https://www.instagram.com/cesaralvarod/)
 
 🗄️ [CV](./CV-CESAR-ALVARADO-V1.pdf)
