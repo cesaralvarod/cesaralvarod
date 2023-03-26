@@ -1,16 +1,14 @@
 ### Hello, I'm Cesar 👋😸
 
-🔩 Mechatronics engineering student
+I'm a Mechatronics Engineering student who is also passionate about web development. I'm constantly striving to improve my skills and knowledge in order to create better projects.
 
-💻 Web developer
+I'm from Peru and I'm always looking to connect with other developers and professionals in my field. You can find me on LinkedIn or Instagram by clicking on the respective icons above.
 
-🌟 I try to be better every day
+If you're interested in learning more about me or my work, feel free to take a look at my CV by clicking on the file cabinet icon above.
 
-🐶 I like dogs 
+Thanks for stopping by, and I hope you enjoy exploring my website!
 
-🔭 [My website](https://cesaralvarod.netlify.app/) 
-
-📌 Piura, Peru
+🔭 [My website](https://cesaralvarod.com) 
 
 ⬇️ **check my public projects** ⬇️
 
@@ -24,4 +22,4 @@
 
 🎩 [linkedin](https://www.linkedin.com/in/cesaralvarod/) | 📸 [instagram](https://www.instagram.com/cesaralvarod/)
 
-🗄️ [CV](./CV-CESAR-ALVARADO-V1.pdf)
+🗄️ [CV](https://cesaralvarod.com/docs/CV%20CESAR%20ANDRES%20ALVARADO%20RODRIGUEZ.pdf)
