@@ -21,5 +21,3 @@ Thanks for stopping by, and I hope you enjoy exploring my website!
 🔎 You can find me in:
 
 🎩 [linkedin](https://www.linkedin.com/in/cesaralvarod/) | 📸 [instagram](https://www.instagram.com/cesaralvarod/)
-
-🗄️ [CV](https://cesaralvarod.com/docs/CV%20CESAR%20ANDRES%20ALVARADO%20RODRIGUEZ.pdf)
